@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-     
+     <h1 className='animation'>My website</h1>
      <TreeView/>
     </>
   )
